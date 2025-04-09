@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Sensor Stream API
+by Amit - 2025
 
 A Spring Boot application that:
 
@@ -44,9 +44,3 @@ external.api.token=<add token>
 ```
 
 Visit: `http://localhost:8080/sensor-data`
-
----
-=======
-# sensor-stream-api
-Java Spring Boot API for receiving sensor data, persisting it, and sending to external systems.
->>>>>>> 363555643ea4bb639263948c3ae4d9800c18d7eb
